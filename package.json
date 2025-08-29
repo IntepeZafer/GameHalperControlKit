@@ -1,5 +1,5 @@
 {
-    "name" : "com.zafer.gamecontrollerkit",
+    "name" : "com.zafer.GameHalperControlKit",
     "version" : "1.0.0",
     "displayName" : "Game Controller Kit",
     "description" : "A simple and easy to use game controller input handling library for Unity",
@@ -10,5 +10,4 @@
         "email": "intepezafer@gmail.com"
     },
     "dependencies": {}
-
 }
