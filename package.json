@@ -1,9 +1,9 @@
 {
-    "name": "com.zafer.gamehalpercontrolkit",
+    "name": "com.zafer.gamehelpercontrolkit",
     "version": "1.0.0",
     "displayName": "Game Controller Kit",
-    "description": "A simple and easy to use game controller input handling library for Unity",
-    "unity": "2025.1",
+    "description": "A simple and easy-to-use game controller input handling library for Unity.",
+    "unity": "2021.3",
     "type": "library",
     "keywords": [
         "input",
