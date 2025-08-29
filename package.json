@@ -1,12 +1,22 @@
 {
-    "name" : "com.zafer.GameHalperControlKit",
-    "version" : "1.0.0",
-    "displayName" : "Game Controller Kit",
-    "description" : "A simple and easy to use game controller input handling library for Unity",
-    "unity" : "2025.1",
-    "keywords" : [ "input", "gameController", "controllers", "gamepad", "joystick", "unity" , "kit" , "utilities" , "game"],
+    "name": "com.zafer.gamehalpercontrolkit",
+    "version": "1.0.0",
+    "displayName": "Game Controller Kit",
+    "description": "A simple and easy to use game controller input handling library for Unity",
+    "unity": "2025.1",
+    "keywords": [
+        "input",
+        "gameController",
+        "controllers",
+        "gamepad",
+        "joystick",
+        "unity",
+        "kit",
+        "utilities",
+        "game"
+    ],
     "author": {
-        "name" : "Zafer İntepe And Umay Katun",
+        "name": "Zafer İntepe & Umay Katun",
         "email": "intepezafer@gmail.com"
     },
     "dependencies": {}
