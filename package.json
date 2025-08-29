@@ -4,6 +4,7 @@
     "displayName": "Game Controller Kit",
     "description": "A simple and easy to use game controller input handling library for Unity",
     "unity": "2025.1",
+    "type": "library",
     "keywords": [
         "input",
         "gameController",
