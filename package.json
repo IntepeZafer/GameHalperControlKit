@@ -1,23 +1,12 @@
 {
-    "name": "com.zafer.gamehelpercontrolkit",
-    "version": "1.0.0",
-    "displayName": "Game Controller Kit",
-    "description": "A simple and easy-to-use game controller input handling library for Unity.",
-    "unity": "2021.3",
-    "type": "library",
-    "keywords": [
-        "input",
-        "gameController",
-        "controllers",
-        "gamepad",
-        "joystick",
-        "unity",
-        "kit",
-        "utilities",
-        "game"
-    ],
+    "name" : "com.zafer.gamehelpercontrolkit",
+    "version" : "1.0.0",
+    "displayName" : "Game Helper Control Kit",
+    "description" : "A simple and easy to use game controller input handling library for Unity",
+    "unity" : "2021.3",
+    "keywords" : [ "input", "gameController", "2d", "3d", "unity", "utilities" ],
     "author": {
-        "name": "Zafer İntepe & Umay Katun",
+        "name" : "Zafer İntepe",
         "email": "intepezafer@gmail.com"
     },
     "dependencies": {}
